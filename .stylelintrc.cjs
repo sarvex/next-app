@@ -1,3 +1,3 @@
 module.export = {
-  extends: ["stylelint-prettier/recommended"],
+  extends: ['stylelint-prettier/recommended'],
 };
